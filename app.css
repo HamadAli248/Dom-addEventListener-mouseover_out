@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:700,900');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-weight: 900;
+     font-size: 48px;
+}
+
+
+ul,input, button {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+input {
+    padding: 10px;
+}
+
+
+button {
+    background-color: goldenrod;
+    border: none;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+button:hover {
+    color: orangered;
+}
+
